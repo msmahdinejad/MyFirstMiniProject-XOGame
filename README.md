@@ -2,7 +2,8 @@
 
 ![Game Main Page](readme-media/MainPage.gif)
 
-This is my first mini-project after a month of learning the fundamentals of programming. It’s a simple Tic-Tac-Toe game where you can either play alone (against the computer) or with a friend in two-player mode.
+This is my first mini-project after a month of learning the fundamentals of programming😊.
+It’s a simple Tic-Tac-Toe game where you can either play alone (against the computer) or with a friend in two-player mode.
 
 ![New Game Page](readme-media/NewGame.png)
 
