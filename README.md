@@ -25,7 +25,7 @@ This is my first mini-project after a month of learning the fundamentals of prog
 
 
 - **Additional Features**:
-  - Sound playback.
+  - Sound playback (using lwinmm).
 
     [Download the Main Page video](readme-media/MainPage.mp4)  
     [Download the Win Page video](readme-media/Congrat.mp4)  
