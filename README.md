@@ -17,7 +17,7 @@ This is my first mini-project after a month of learning the fundamentals of prog
 
   ![Two Player Mode](readme-media/DouGame.png)
 
-  - **Controls**: Use the WASD keys to navigate and the Spacebar to make a move.
+- **Controls**: Use the WASD keys to navigate and the Spacebar to make a move.
   
   ![Controls](readme-media/GamePlay.png)
 
@@ -26,14 +26,17 @@ This is my first mini-project after a month of learning the fundamentals of prog
 
 - **Additional Features**:
   - Sound playback.
-  [Download the Main Page video](readme-media/MainPage.mp4)
-  [Download the Win Page video](readme-media/Congrat.mp4)
-  [Download the Game Over Page video](readme-media/GameOver.mp4)
+
+    [Download the Main Page video](readme-media/MainPage.mp4)  
+    [Download the Win Page video](readme-media/Congrat.mp4)  
+    [Download the Game Over Page video](readme-media/GameOver.mp4)
 
   - Game history to review previous moves.
-  ![Game History Page](readme-media/GameHistory.gif)
+  
+    ![Game History Page](readme-media/GameHistory.gif)
 
   - The ability to continue from where you left off in your last game.
-  ![Continue Game](readme-media/ContinueGame.png)
-
+  
+    ![Continue Game](readme-media/ContinueGame.png)
+    
 Creating this simple project at the beginning of my programming journey has been an exciting and rewarding experience!
