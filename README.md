@@ -33,7 +33,7 @@ This is my first mini-project after a month of learning the fundamentals of prog
 
   - Game history to review previous moves.
   
-    ![Game History Page](readme-media/GameHistory.gif)
+    ![Game History Page](readme-media/GameHistory.png)
 
   - The ability to continue from where you left off in your last game.
   
