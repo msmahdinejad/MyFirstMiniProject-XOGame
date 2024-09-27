@@ -7,6 +7,7 @@ It’s a simple Tic-Tac-Toe game where you can either play alone (against the co
 
 ![New Game Page](readme-media/NewGame.png)
 
+---
 
 ### Features:
 
@@ -39,5 +40,7 @@ It’s a simple Tic-Tac-Toe game where you can either play alone (against the co
   - The ability to continue from where you left off in your last game.
   
     ![Continue Game](readme-media/ContinueGame.png)
+
+---
     
 Creating this simple project at the beginning of my programming journey has been an exciting and rewarding experience!
